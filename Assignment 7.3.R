@@ -1,0 +1,1 @@
+boxplot(mtcars$mpg, main = "Boxplot of Miles/Gallon",col="skyblue")
